@@ -13,7 +13,6 @@ public class Solution {
         if (s == null || (length = s.length()) == 1)
             return s;
 
-
         // use status array and init
         int[][] status = new int[length][length];
         for (int i = 0; i < length; i++) {
@@ -26,7 +25,6 @@ public class Solution {
 
             }
         }
-
 
         return "";
     }
