@@ -1,6 +1,7 @@
 package com.pengbo.mydemo.常用算法.kmp;
 
 public class KMP {
+    /*
     KMP算法
             改进后的KMP算法
     主要是求next域
@@ -43,5 +44,5 @@ public class KMP {
 //       next[1]=0；    next[2]=1；   next[3]=1；  next[4]=2；    ....   next[6]=3；    ....
 //       右移一位        右移一位        右移两位
 
-
+*/
 }

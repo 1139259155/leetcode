@@ -1,4 +1,4 @@
-package com.pengbo.mydemo.No_112_路径总和;
+package com.pengbo.mydemo.leetcode.No_112_路径总和;
 
 public class TreeNode {
     int val;

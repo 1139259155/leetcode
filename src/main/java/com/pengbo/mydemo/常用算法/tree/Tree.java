@@ -1,6 +1,7 @@
 package com.pengbo.mydemo.常用算法.tree;
 
 public class Tree {
+/*
 
     //二叉树的递归遍历 
     void Traverse(TreeNode treeNode) {
@@ -112,6 +113,7 @@ public class Tree {
             Thrt.right = pre;
         }
     }
+*/
 /*
 
     void InThreading(TreeNode p) {
@@ -134,7 +136,8 @@ public class Tree {
             InThreading(p.right);
         }
     }
-*/
+*//*
+
 
 
     //二叉树的复制递归算法 
@@ -162,6 +165,7 @@ public class Tree {
             Swap(treeNode.right);
         }
     }
+*/
 
 
 }

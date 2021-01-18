@@ -1,4 +1,4 @@
-package com.pengbo.mydemo.剑指Offer56_I数组中数字出现的次数;
+package com.pengbo.mydemo.leetcode.剑指Offer56_I数组中数字出现的次数;
 
 import java.util.Arrays;
 

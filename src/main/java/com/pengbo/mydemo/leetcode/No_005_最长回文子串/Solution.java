@@ -1,4 +1,4 @@
-package com.pengbo.mydemo.No_005_最长回文子串;
+package com.pengbo.mydemo.leetcode.No_005_最长回文子串;
 
 public class Solution {
 

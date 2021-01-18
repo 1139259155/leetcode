@@ -1,6 +1,7 @@
 package com.pengbo.mydemo.常用算法.graph;
 
 public class Graph1 {
+    /*
     DFS/BFS         时间复杂度    空间复杂度
     邻接表             o（V+E）      o(V)
     邻接矩阵          o（V2）       o(V)
@@ -228,5 +229,5 @@ public class Graph1 {
         printf("\n");
     }
 
-
+*/
 }

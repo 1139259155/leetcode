@@ -1,6 +1,7 @@
 package com.pengbo.mydemo.常用算法.list;
 
 public class ListOper {
+    /*
     线性表大杂烩（数组、链表、栈、队列）
             //       线性表        &     非线性表 —— 逻辑结构。
 //eg：数组、链表、栈、队列       树、图
@@ -154,5 +155,5 @@ public class ListOper {
 //待完成...
 //
 
-
+*/
 }

@@ -1,6 +1,7 @@
 package com.pengbo.mydemo.常用算法.sort;
 
 public class Sort {
+    /*
     1.排序：
     插入排序：直接插入排序、折半插入排序、希尔排序
     交换排序：冒泡排序、快速排序
@@ -39,5 +40,5 @@ public class Sort {
         }
     }
 
-
+*/
 }

@@ -1,4 +1,4 @@
-package com.pengbo.mydemo.剑指Offer07_重建二叉树;
+package com.pengbo.mydemo.leetcode.剑指Offer07_重建二叉树;
 public class TreeNode {
     int val;
     TreeNode left;
